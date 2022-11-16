@@ -26,11 +26,7 @@ I'm studying Technologies in Computer Systems at Federal Fluminense University a
 </div>
   
  <br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuswilliam01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
+  
   <div style="display: inline_block"><br>
  <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,6 +48,12 @@ I'm studying Technologies in Computer Systems at Federal Fluminense University a
   <img title="VSCode" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img title="IntelliJ" alt="IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
 </div>
+  
+ <br>
+  
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=matheuswilliam01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
  
  <hr>
   
