@@ -6,6 +6,8 @@ I'm studying Technologies in Computer Systems at Universidade Federal Fluminense
 - 🌱 Focused on evolving
 - 💬 Let's talk? I love talking about technologies
 
+<hr>
+
 <div align="center">
   <a href="https://github.com/matheuswilliam01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuswilliam01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
