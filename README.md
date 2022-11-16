@@ -1,6 +1,6 @@
 Hello World!
 
-I'm studying Technologies in Computer Systems at Universidade Federal Fluminense and I'm constantly looking for new challenges to become the developer I dream of being...
+I'm studying Technologies in Computer Systems at Federal Fluminense University and I'm constantly looking for new challenges to become the developer I dream of being...
 
 - 🔭 Study for pleasure
 - 🌱 Focused on evolving
