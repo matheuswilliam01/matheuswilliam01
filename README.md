@@ -8,21 +8,28 @@ I'm studying Technologies in Computer Systems at Federal Fluminense University a
 - 🌱 Focused on evolving
 - 💬 Let's talk? I love talking about technologies
 
-<hr>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=matheuswilliam01&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuswilliam01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<hr>
-
+<div>
+  <a href="https://www.instagram.com/matheus_william27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href = "mailto:matheus2v27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheus-william-080821238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
+ <div>
+   
+ <hr>
+ 
+ <br>
+   
 <div align="center">
   <a href="https://github.com/matheuswilliam01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuswilliam01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswilliam01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+ <br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuswilliam01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
   <div style="display: inline_block"><br>
  <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,13 +52,14 @@ I'm studying Technologies in Computer Systems at Federal Fluminense University a
   <img title="VSCode" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img title="IntelliJ" alt="IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
 </div>
+ 
+ <hr>
+  
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheuswilliam01&theme=gotham&hide_border=true&area=true)
   
  ##
   
-  <div> 
-  <a href="https://www.instagram.com/matheus_william27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href = "mailto:matheus2v27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/matheus-william-080821238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<div> 
  
   ![Snake animation](https://github.com/matheuswilliam01/matheuswilliam01/blob/output/github-contribution-grid-snake.svg)
  
