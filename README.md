@@ -1,10 +1,20 @@
-Hello World!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+William_;I'm+20+years+old;I'm+from+Brazil,+Rio+de+Janeiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 I'm studying Technologies in Computer Systems at Federal Fluminense University and I'm constantly looking for new challenges to become the developer I dream of being...
 
 - 🔭 Study for pleasure
 - 🌱 Focused on evolving
 - 💬 Let's talk? I love talking about technologies
+
+<hr>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=matheuswilliam01&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuswilliam01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <hr>
 
@@ -46,3 +56,5 @@ I'm studying Technologies in Computer Systems at Federal Fluminense University a
   ![Snake animation](https://github.com/matheuswilliam01/matheuswilliam01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
