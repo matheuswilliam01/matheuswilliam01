@@ -39,9 +39,9 @@ I'm studying Technologies in Computer Systems at Federal Fluminense University a
  ##
   
   <div> 
-  <a target="blank" href="https://www.instagram.com/matheus_william27/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheus2v27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a target="blank" href="https://www.linkedin.com/in/matheus-william-080821238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/matheus_william27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href = "mailto:matheus2v27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheus-william-080821238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/matheuswilliam01/matheuswilliam01/blob/output/github-contribution-grid-snake.svg)
  
