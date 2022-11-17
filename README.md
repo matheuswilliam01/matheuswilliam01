@@ -16,17 +16,9 @@ I'm studying Computer Systems Technology at Federal Fluminense University and I'
  <div>
    
  <hr>
- 
- <br>
+  
+   <h3>Skills:</h1>
    
-<div align="center">
-  <a href="https://github.com/matheuswilliam01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuswilliam01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswilliam01&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
- <br>
-  
   <div style="display: inline_block"><br>
  <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -48,13 +40,15 @@ I'm studying Computer Systems Technology at Federal Fluminense University and I'
   <img title="VSCode" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img title="IntelliJ" alt="IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
 </div>
-  
- <br>
-  
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=matheuswilliam01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+   
+<br>
  
+ <div align="center">
+  <a href="https://github.com/matheuswilliam01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuswilliam01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswilliam01&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
  <hr>
   
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheuswilliam01&theme=gotham&hide_border=true&area=true)
