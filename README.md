@@ -51,10 +51,6 @@ I'm studying Computer Systems Technology at Federal Fluminense University and I'
   
  <hr>
   
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheuswilliam01&theme=gotham&hide_border=true&area=true)
-  
- ##
-  
 <div> 
  
   ![Snake animation](https://github.com/matheuswilliam01/matheuswilliam01/blob/output/github-contribution-grid-snake.svg)
